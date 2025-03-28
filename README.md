@@ -110,6 +110,12 @@ Part C -  Outside the Box Questions
 
 Check the attached PDF for detailed recommendations.
 
+## 📌 How to Contribute  
+
+💡 **Fork this repository**, make changes, and submit a pull request!  
+
+🔗 Click here to [Fork this repo](https://github.com/your-username/your-repo/fork).
+
 ## 📢 Support
 
 ⭐ If you like this project, support it by giving it a star!
