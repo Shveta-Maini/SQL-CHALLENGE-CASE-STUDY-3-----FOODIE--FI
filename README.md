@@ -1,5 +1,16 @@
 # 🥑 SQL Case Study: Foodie-Fi 🥑
 
+
+## 🚀 Contribute & Support   
+
+🍴 Fork this repository, make improvements, and submit a Pull Request!  
+
+⭐ Found this project useful? Don’t forget to give it a star! 🌟  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 👋 Welcome!  
+
 Hello everyone! Excited to share my **SQL project**, where I analyzed **Foodie-Fi**, a streaming service for food-related content 🍕📺
 
 ![Picture2](https://github.com/user-attachments/assets/b050bd60-8ad3-4446-8a9b-d9c3ddc60a0c)
@@ -114,10 +125,6 @@ Part C -  Outside the Box Questions
 ## 📢 Recommendations for Growth
 
 Check the attached PDF for detailed recommendations.
-
-## 📢 Support
-
-⭐ If you like this project, support it by giving it a star!
 
 ## 💬 **Feel free to connect with me!** 🚀 
 
