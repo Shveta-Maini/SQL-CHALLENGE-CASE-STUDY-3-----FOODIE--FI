@@ -21,6 +21,8 @@ The analysis utilises two datasets:
 
 🔹It defines plan options and pricing structure
 
+<img width="207" alt="Table1" src="https://github.com/user-attachments/assets/68ab238f-1605-432a-98b7-95dd7e1ceb9c" />
+
 🔹Customers can choose which plans to join Foodie-Fi when they first sign up.
 
 🔹Basic plan customers have limited access and can only stream their videos and is only available monthly at $9.90
@@ -37,6 +39,9 @@ The analysis utilises two datasets:
 
 🔹It tracks customer actions, upgrades,downgrades, cancellations, and billing periods)
 
+<img width="245" alt="Table2" src="https://github.com/user-attachments/assets/40754f05-a930-4161-af88-9ad3504f1acb" />
+
+
 🔹Customer subscriptions show the exact date where their specific plan_id starts.
 
 🔹If customers downgrade from a pro plan or cancel their subscription - the higher plan will remain in place until the period is over - the start_date in the subscriptions table will reflect the date that the actual plan changes.
@@ -44,6 +49,11 @@ The analysis utilises two datasets:
 🔹When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straightaway.
 
 🔹When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
+
+## Entity Relationship Diagram
+
+![Entity Relationship](https://github.com/user-attachments/assets/b73ebecd-9700-4fb4-9813-99c980df68fa)
+
 
 ## 📊 Foodie - Fi Analytical Framework
 
