@@ -17,33 +17,33 @@ The analysis utilises two datasets:
 
 **Table 1: plans**
 
-The plans table includes :- plan_id,plan_name, price
+🔹The plans table includes :- plan_id,plan_name, price
 
-It defines plan options and pricing structure
+🔹It defines plan options and pricing structure
 
-Customers can choose which plans to join Foodie-Fi when they first sign up.
+🔹Customers can choose which plans to join Foodie-Fi when they first sign up.
 
-Basic plan customers have limited access and can only stream their videos and is only available monthly at $9.90
+🔹Basic plan customers have limited access and can only stream their videos and is only available monthly at $9.90
 
-Pro plan customers have no watch time limits and are able to download videos for offline viewing. Pro plans start at $19.90 a month or $199 for an annual subscription.
+🔹Pro plan customers have no watch time limits and are able to download videos for offline viewing. Pro plans start at $19.90 a month or $199 for an annual subscription.
 
-Customers can sign up to an initial 7 day free trial will automatically continue with the pro monthly subscription plan unless they cancel, downgrade to basic or upgrade to an annual pro plan at any point during the trial.
+🔹Customers can sign up to an initial 7 day free trial will automatically continue with the pro monthly subscription plan unless they cancel, downgrade to basic or upgrade to an annual pro plan at any point during the trial.
 
-When customers cancel their Foodie-Fi service - they will have a churn plan record with a null price but their plan will continue until the end of the billing period.
+🔹When customers cancel their Foodie-Fi service - they will have a churn plan record with a null price but their plan will continue until the end of the billing period.
 
 **Table 2: subscriptions**
 
-The subscriptions table includes :- customer_id, plan_id , start_date.
+🔹The subscriptions table includes :- customer_id, plan_id , start_date.
 
-It tracks customer actions, upgrades,downgrades, cancellations, and billing periods)
+🔹It tracks customer actions, upgrades,downgrades, cancellations, and billing periods)
 
-Customer subscriptions show the exact date where their specific plan_id starts.
+🔹Customer subscriptions show the exact date where their specific plan_id starts.
 
-If customers downgrade from a pro plan or cancel their subscription - the higher plan will remain in place until the period is over - the start_date in the subscriptions table will reflect the date that the actual plan changes.
+🔹If customers downgrade from a pro plan or cancel their subscription - the higher plan will remain in place until the period is over - the start_date in the subscriptions table will reflect the date that the actual plan changes.
 
-When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straightaway.
+🔹When customers upgrade their account from a basic plan to a pro or annual pro plan - the higher plan will take effect straightaway.
 
-When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
+🔹When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
 
 ## 📊 Foodie - Fi Analytical Framework
 
@@ -66,7 +66,7 @@ When customers churn - they will keep their access until the end of their curren
 
 ## 📊 Case Study Solutions
 
-Part A - Customer Journey
+Part A - Customer Journey https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/A.%20Customer%20Journey.md
 
 Part B - Data Analysis Questions
 
