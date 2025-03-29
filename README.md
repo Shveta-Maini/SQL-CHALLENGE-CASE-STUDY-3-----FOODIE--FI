@@ -1,5 +1,10 @@
 # 🥑 SQL Case Study: Foodie-Fi 🥑
 
+## 📌 **About This Repository**  
+
+This repository hosts the solutions to the **3rd challenge (Week 3)** of the **8 Weeks SQL Challenge** by Danny Ma.
+
+[📌 View the Full Challenge Here](https://8weeksqlchallenge.com/case-study-3/)
 
 ## 🚀 Contribute & Support   
 
@@ -7,7 +12,7 @@
 
 ⭐ Found this project useful? Don’t forget to give it a star! 🌟  
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👋 Welcome!  
 
