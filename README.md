@@ -55,11 +55,6 @@ The analysis utilises two datasets:
 ![Entity Relationship](https://github.com/user-attachments/assets/b73ebecd-9700-4fb4-9813-99c980df68fa)
 
 
-## 📊 Foodie - Fi Analytical Framework
-
-![Picture1](https://github.com/user-attachments/assets/82db99ba-7ebf-475d-83c9-5e1167ed0956)
-
-
 ## 🎯 SQL Concepts Used
 
 🔹 Basic Queries: SELECT, DISTINCT, WHERE, GROUP BY, ORDER BY
@@ -76,7 +71,7 @@ The analysis utilises two datasets:
 
 ## 📊 Case Study Solutions
 
-Part A - Customer Journey https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/A.%20Customer%20Journey.md
+Part A. Customer Journey - [View Solution](https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/A.%20Customer%20Journey.md)
 
 Part B - Data Analysis Questions
 
