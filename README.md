@@ -71,47 +71,37 @@ The analysis utilises two datasets:
 
 🔹 Window Functions: ROW_NUMBER(), OVER(), PARTITION BY, LAG(), LEAD()
 
-## 📊 Case Study Solutions
+## 📊 Case Study Questions
 
-Part A. Customer Journey - [View Solution](https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/A.%20Customer%20Journey.md)
+**Part A. Customer Journey** - [View Solution Here](https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/A.%20Customer%20Journey.md)
 
-Part B - Data Analysis Questions
+Q-Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
-Part C -  Outside the Box Questions
+**Part B - Data Analysis Questions**
 
-## 🔑 Key Insights 
+Q-1 How many customers has Foodie-Fi ever had?
 
-**📈 Key Metrics:**
+Q-2 What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
 
-✔️ Month-over-Month (MoM) Revenue Growth %
+Q-3 What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
 
-✔️ Total Revenue Growth % (112% increase from Jan 2020 to Apr 2021)
+Q-4 What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
 
-**👥 Customer Breakdown:**
+Q-5 How many customers have churned straight after their initial free trial - what percentage is this rounded to the nearest whole number?
 
-👤**Total Unique Customers**: 1000 (Trial Visitors)
+Q-6 What is the number and percentage of customer plans after their initial free trial?
 
-✅ **Active Subscribers**: 1343
+Q-7 What is the customer count and percentage breakdown of all 5 plan_name values at 2020-12-31?
 
-📌 **Plan-wise Subscriptions**:
+Q-8 How many customers have upgraded to an annual plan in 2020?
 
-🟢 **Basic Monthly**: 546 subscribers ($9.90/month)
+Q-9 How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
 
-🔵 **Pro Monthly**: 539 subscribers ($19.90/month)
+Q-10 Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
 
-🟠 **Pro Annual**: 258 subscribers ($199/year)
+Q-11 How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
-❌ **Churned Customers**: 307 (after trial)
-
-💰 **Revenue Insights:**
-
-📉** Fluctuations observed** – **drops in Nov 2020, Feb 2021, and Mar 2021**, followed by recovery.
-
-📆 **Peak Revenue**: **$7758.7 in Oct 2020 (holiday influence)**.
-
-🟠 **Pro Annual Plan** is the **highest revenue generator** despite its higher price.
-
-📈 **112% total revenue growth** from **Jan 2020 to Apr 2021.**
+**Part C -  Outside the Box Questions**
 
 ## 🚀 Contribute & Support   
 
