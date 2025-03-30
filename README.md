@@ -13,9 +13,7 @@ Hello everyone! Excited to share my **SQL project**, where I analyzed **Foodie-F
 
 **📌 Objective**: CEO **Danny** aims to make **data-driven decisions** to analyze growth & improve business strategies.
 
-**📌 Dataset Source**: This dataset is part of **Danny Ma’s 8-Week SQL Challenge**.
-
-👉 All credit for the dataset goes to **Danny Ma**. You can check out the original challenge [here](https://8weeksqlchallenge.com/)
+**📌 Dataset Source**: This dataset is part of **Danny Ma’s 8-Week SQL Challenge**.👉 All credit for the dataset goes to **Danny Ma**. 
 
 **📌SQL Solutions & Analysis:**  **Created by Me**
 
