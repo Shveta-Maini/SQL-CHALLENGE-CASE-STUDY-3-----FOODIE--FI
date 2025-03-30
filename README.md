@@ -13,6 +13,12 @@ Hello everyone! Excited to share my **SQL project**, where I analyzed **Foodie-F
 
 **📌 Objective**: CEO **Danny** aims to make **data-driven decisions** to analyze growth & improve business strategies.
 
+**📌 Dataset Source**: This dataset is part of **Danny Ma’s 8-Week SQL Challenge**.
+
+👉 All credit for the dataset goes to **Danny Ma**. You can check out the original challenge [here](https://8weeksqlchallenge.com/)
+
+**📌SQL Solutions & Analysis:**  **Created by Me**
+
 ## 📊 Data Overview
 
 The analysis utilises two datasets:
@@ -77,7 +83,7 @@ The analysis utilises two datasets:
 
 Q-Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
-**Part B - Data Analysis Questions**
+**Part B - Data Analysis Questions** - [View Solution Here](https://github.com/ShvetaMaini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/B.%20Data%20Analysis.md)
 
 Q-1 How many customers has Foodie-Fi ever had?
 
@@ -105,9 +111,9 @@ Q-11 How many customers downgraded from a pro monthly to a basic monthly plan in
 
 ## 🚀 Contribute & Support   
 
-🍴 Fork this repository, make improvements, and submit a Pull Request!  
+🍴 **Fork this repository**, make improvements, and **submit a Pull Request!**  
 
-⭐ Found this project useful? Don’t forget to give it a star! 🌟 
+⭐ **Found this project useful? Don’t forget to give it a star! 🌟** 
 
 ## 💬 **Feel free to connect with me!** 🚀 
 
