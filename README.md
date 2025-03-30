@@ -1,19 +1,5 @@
 # 🥑 SQL Case Study: Foodie-Fi 🥑
 
-## 📌 **About This Repository**  
-
-This repository hosts the solutions to the **3rd challenge (Week 3)** of the **8 Weeks SQL Challenge** by Danny Ma.
-
-[📌 View the Full Challenge Here](https://8weeksqlchallenge.com/)
-
-## 🚀 Contribute & Support   
-
-🍴 Fork this repository, make improvements, and submit a Pull Request!  
-
-⭐ Found this project useful? Don’t forget to give it a star! 🌟  
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 👋 Welcome!  
 
 Hello everyone! Excited to share my **SQL project**, where I analyzed **Foodie-Fi**, a streaming service for food-related content 🍕📺
@@ -127,9 +113,11 @@ Part C -  Outside the Box Questions
 
 📈 **112% total revenue growth** from **Jan 2020 to Apr 2021.**
 
-## 📢 Recommendations for Growth
+## 🚀 Contribute & Support   
 
-Check the attached PDF for detailed recommendations.
+🍴 Fork this repository, make improvements, and submit a Pull Request!  
+
+⭐ Found this project useful? Don’t forget to give it a star! 🌟 
 
 ## 💬 **Feel free to connect with me!** 🚀 
 
