@@ -17,6 +17,11 @@ Hello everyone! Excited to share my **SQL project**, where I analyzed **Foodie-F
 
 **📌SQL Solutions & Analysis:**  **Created by Me**
 
+## 🚀 Acknowledgment & Credit
+
+If you find this project helpful, please **⭐ star the repo** or **mention my work** when using it.  
+**Feel free to fork and modify, but kindly give credit. Thank you! 😊**
+
 ## 📊 Data Overview
 
 The analysis utilises two datasets:
@@ -105,13 +110,9 @@ Q-10 Can you further breakdown this average value into 30 day periods (i.e. 0-30
 
 Q-11 How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
+
 **Part C -  Outside the Box Questions**
 
-## 🚀 Contribute & Support   
-
-🍴 **Fork this repository**, make improvements, and **submit a Pull Request!**  
-
-⭐ **Found this project useful? Don’t forget to give it a star! 🌟** 
 
 ## 💬 **Feel free to connect with me!** 🚀 
 
