@@ -111,7 +111,9 @@ Q-10 Can you further breakdown this average value into 30 day periods (i.e. 0-30
 Q-11 How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
 
-**Part C -  Outside the Box Questions**
+**Part C -  Outside the Box Questions**  [View Solution Here](https://github.com/Shveta-Maini/SQL-CHALLENGE-CASE-STUDY-3-----FOODIE--FI/blob/main/C.%20Outside%20The%20Box%20Questions.md)
+
+Q-1 How would you calculate the rate of growth for Foodie-Fi?
 
 
 ## 💬 **Feel free to connect with me!** 🚀 
